@@ -1,0 +1,21 @@
+{
+    "name": "Teste PWA 1",
+    "short_name": "testepwa1",					
+    "start_url" : "/" ,
+    "display" : " standalone " ,
+    "theme_color" : "#765d4d " ,
+    "theme-color" : "#765d4d " ,
+    "background_color" : " #765d4d " ,
+    "background-color" : " #765d4d " ,
+    "description": "App Web para a atividade de PAM II",
+    
+
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          
+        }
+    ]
+}
